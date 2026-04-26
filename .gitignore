@@ -1,0 +1,10 @@
+# Hardening — defensive layer. Cron uses cp allowlist (safe by design).
+# This blocks accidental git add -A picking up files manually copied here.
+auto_review_hermes_*.md
+auto_review_*.md
+weekly-review/
+paper_trades_v25*.csv
+signals_log*.csv
+scan_v25_*.csv
+*.tmp
+*.bak
