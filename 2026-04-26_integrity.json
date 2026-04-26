@@ -1,0 +1,10 @@
+{
+  "date": "2026-04-26",
+  "git_commit": "3d10223f5d4ea0b6ac78fa2d84d7da23908e4a08",
+  "frozen_files": {
+    "scripts/hermes_live_scanner_v25.py": "11293d2f49a88dd1e443f35744cdf9388671d26a5c59b28317da4099d4fd271d",
+    "scripts/hermes_watchlist_enrich_v25.py": "7ec20aaf1e625bd77c285803b7db57fb81e0ac934783ab64869b1f8d0051e9d9",
+    "scripts/hermes_paper_track_v25.py": "95d5d777965d0826f7d4334c53e178013ebdc8e2dc7c6ef0d263e2b09cc5e3b5",
+    "data/research/parabolic_pattern_v25.json": "1440bf1f72ce6ed0227f37c098e3618c48b931ff0187729055a88304414d53e9"
+  }
+}
