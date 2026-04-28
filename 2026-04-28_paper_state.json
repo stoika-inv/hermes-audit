@@ -1,0 +1,17 @@
+{
+  "strategy": "Herm\u00e8s",
+  "asset_class": "Small / mid cap USA capitulation reversal",
+  "status": "forward_paper",
+  "paper_start_date": "2026-04-26",
+  "review_date": "2026-07-19",
+  "client_capital_deployed": 0,
+  "paper_total_usd": 12000.0,
+  "size_per_slot_usd": 1000.0,
+  "n_slots_total": 12,
+  "nav": 0.1692,
+  "open_positions_count": 5,
+  "open_positions_note": "Tickers and signals are Pro+ only",
+  "closed_trades": [],
+  "closed_trades_count": 0,
+  "generated_at": "2026-04-28"
+}

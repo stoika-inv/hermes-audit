@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-04-28T17:50:30.515256",
+  "paper_start_date": "2026-04-26",
+  "review_date": "2026-07-19",
+  "days_live": 2,
+  "weeks_live": 0.3,
+  "n_open_positions": 5,
+  "n_closed_positions": 0,
+  "live_performance": {
+    "nav": 0.1692,
+    "total_return_pct": -83.0833,
+    "annualized_pct_extrapolated": -100.0,
+    "annualized_caveat": "Extrapolation from <90 days is statistically meaningless. Wait for sample size n_trades_closed >= 10."
+  },
+  "backtest_reference": {
+    "cagr_pct": 79.78,
+    "sharpe": 2.48,
+    "max_dd_pct": -18.86,
+    "win_rate_pct": 57.4,
+    "live_expected_cagr_low": 65,
+    "live_expected_cagr_high": 67,
+    "live_expected_sharpe_low": 2.05,
+    "live_expected_sharpe_high": 2.07,
+    "p_cagr_above_65": 93.5,
+    "haircut_method": "DSR Bailey-de Prado + Bonferroni K=25 + r\u00e9gime drift discount"
+  },
+  "drift": {
+    "status": "TOO_EARLY",
+    "interpretation": "Forward paper started 2026-04-26. Need >=12 weeks AND >=10 closed trades for first review on 2026-07-19."
+  }
+}
